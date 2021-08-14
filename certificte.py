@@ -92,7 +92,7 @@ def gmail():
     Thank You
     '''     
     sender_address = 'anjali.goyal3007@gmail.com'
-    sender_pass = 'maalove@123@'
+    sender_pass = 'XYZ'
     #receiver_address = 'anjaligoyal730@gmail.com'
     message = MIMEMultipart()
     message['From'] = sender_address
